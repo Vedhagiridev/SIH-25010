@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:30-09-2025
-## Register Number:
-## Name:
+## Register Number:25011856
+## Name:SHARMILI V
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
